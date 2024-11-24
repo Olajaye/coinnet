@@ -11,7 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        textyellow: '#FEED01'
       },
+      backgroundColor:{
+        bgyellow: '#FEED01'
+      }
     },
   },
   plugins: [],
